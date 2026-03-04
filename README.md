@@ -1,2 +1,6 @@
-# kalkulator-investasi-tahuanan
-program pertama
+# Kalkulator Investasi
+
+Program Python sederhana untuk menghitung bunga majemuk.
+
+## Cara Menjalankan
+python kalkulator.py
